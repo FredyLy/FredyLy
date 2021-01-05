@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Fredy, student at the Wild Code School Paris campus.
 <!--
 **FredyLy/FredyLy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
