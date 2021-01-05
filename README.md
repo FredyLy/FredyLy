@@ -4,9 +4,9 @@
 <br />
 <hr />
 <br />
-<p>I used to work in Project Management, but I've decided to become a Web Developer! (Yeay! 🙌)</p>
+<p>I use to work in Project Management, but I've decided to become a Web Developer! (Yeay! 🙌)</p>
 <p>🌱 I’m currently learning JavaScript on React and Node libraries.</p>
-<p>Here are some of my projects.</p>
+<p>You can find on my GitHub some of my projects.</p>
 <br />
 <hr />
 <br />
