@@ -1,6 +1,6 @@
-### Hi there 👋
-<p>I'm Fredy, student at the Wild Code School Paris campus. </p>
-<p>Nice to meet you 🤝</p>
+# Hi there 👋
+### I'm Fredy, student at the Wild Code School Paris campus.
+### Nice to meet you 🤝
 <br />
 <hr />
 <br />
