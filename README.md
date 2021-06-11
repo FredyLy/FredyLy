@@ -10,7 +10,7 @@
 <br />
 <hr />
 <br />
-<p>By the way, I am currently looking for a 4 to 6-month internship (from March 2021), so I am open to all opportunities.</p>
+<p>By the way, I am currently looking for a 12-month work-study contract (from September 2021), so I am open to all opportunities.</p>
 
 <!--
 **FredyLy/FredyLy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
