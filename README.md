@@ -6,8 +6,7 @@
 <br />
 <p>I use to work in Project Management, but I've decided to become a Web Developer! (Yeay! 🙌)</p>
 <p>🌱 I’m currently learning JavaScript on React and Node libraries.</p>
-<p>You can find on my GitHub some of my projects, or you can have a look at my portfolio too:
-  <strong>https://fredyly.github.io/portfolio/</strong>.</p>
+<p>You can find on my GitHub some of my projects, or you can have a look at my <strong>portfolio</strong> too: https://fredyly.github.io/portfolio/.</p>
 <br />
 <hr />
 <br />
